@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "semi": "off",
+    "quote-props": "off",
+    "quotes": "off"
+  },
+  "env": {
+    "jest": true
+  }
+}
